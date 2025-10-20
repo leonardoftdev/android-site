@@ -5,4 +5,4 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=for-the-badge)
 
-Apenas um projeto simples sobre como surgiu o robô do android !
+Apenas um projeto simples sobre como surgiu o mascote do android !
